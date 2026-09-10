@@ -1,4 +1,4 @@
 site_name: example-website
 
 theme:
-  name: flatly
+  name: material
